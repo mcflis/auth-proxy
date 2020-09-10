@@ -11,7 +11,7 @@
   "author": "Maximilian Flis <maximilian.flis@tum.de>",
   "license": "MIT",
   "dependencies": {
-    "http-proxy": "1.17.0"
+    "http-proxy": "1.18.1"
   },
   "devDependencies": {
     "@mcflis/node-docker-build-helper": "gist:e9ffc44cf3402ac684196865f87e5881",
